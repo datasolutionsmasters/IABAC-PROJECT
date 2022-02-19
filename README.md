@@ -10,6 +10,7 @@ Module              : Certified Data Scientist - Project
 Exam Format         : Open Project- IABAC™ Project Submission
 Registered Trainer  : Ashok Kumar A
 Submission Deadline Date:   20-April-2019  
+
 Project Summary
 The Data science project which is given here is an analysis of employee performance form INX Furture Inc. The project goal is to find the performance rating of the employees from each feature of their data such as total work experience, gender, department, current role..etc. The Goal and Insights of the project as follows,
 
